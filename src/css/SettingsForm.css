@@ -1,0 +1,39 @@
+.settings-form-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.settings-form-container.light {
+  background-color: #fff; /* Light background color */
+  color: #333; /* Dark text color for better contrast */
+}
+
+.settings-form-container.dark {
+  background-color: #333; /* Dark background color */
+  color: #fff; /* Light text color for better contrast */
+}
+
+.form-title {
+  color: #007bff; /* Bright blue color for the title */
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #333; /* Dark text color for labels */
+}
+
+.form-select {
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+}

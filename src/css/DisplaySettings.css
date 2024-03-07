@@ -1,0 +1,18 @@
+.display-settings-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .settings-title {
+    color: #007bff; /* Bright blue color for the title */
+  }
+  
+  .settings-info {
+    font-size: 16px;
+    color: #333; /* Dark text color for settings information */
+    margin-bottom: 10px;
+  }
